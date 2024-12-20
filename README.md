@@ -1,7 +1,5 @@
 Single Page Portfolio template
 
-# Portfolio DEV Version  
-
 ## Overview  
 This repository contains the source code for a developer portfolio website. It showcases essential details about the developer, including their skills, projects, and ways to connect. The website features a clean, responsive design with smooth navigation and visually appealing glass morphism elements.  
 
@@ -25,3 +23,16 @@ This repository contains the source code for a developer portfolio website. It s
 2. Navigate to the project directory
 3. Open index.html in your preferred browser.
 4. Ensure the Images folder is in the same directory for assets to load correctly.
+
+## Usage
+- Use this portfolio template to create your own developer website.
+- Replace placeholder content (e.g., profile image, name, skills, and project details) with your information.
+- Customize styles in style.css to reflect your personal branding.
+
+## Screenshot
+
+## Contribution
+Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
+
+## Acknowledgement
+Special thanks to the open-source community for inspiration and resources that helped shape this portfolio design.
