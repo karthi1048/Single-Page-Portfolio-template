@@ -29,7 +29,11 @@ This repository contains the source code for a developer portfolio website. It s
 - Replace placeholder content (e.g., profile image, name, skills, and project details) with your information.
 - Customize styles in style.css to reflect your personal branding.
 
-## Screenshot
+## Screenshots
+<img src="portfolio-1.png" alt="Portfolio template reference 1">
+<img src="portfolio-2.png" alt="Portfolio template reference 2">
+<img src="portfolio-3.png" alt="Portfolio template reference 3">
+
 
 ## Contribution
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
