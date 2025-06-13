@@ -1,5 +1,3 @@
-Single Page Portfolio template
-
 ## Overview  
 This repository contains the source code for a developer portfolio website. It showcases essential details about the developer, including their skills, projects, and ways to connect. The website features a clean, responsive design with smooth navigation and visually appealing glass morphism elements.  
 
@@ -19,7 +17,7 @@ This repository contains the source code for a developer portfolio website. It s
 ## Installation and Setup  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/kartho1048/portfolio-dev-version.git  
+   git clone  https://github.com/karthi1048/Single-Page-Portfolio-template.git
 2. Navigate to the project directory
 3. Open index.html in your preferred browser.
 4. Ensure the Images folder is in the same directory for assets to load correctly.
